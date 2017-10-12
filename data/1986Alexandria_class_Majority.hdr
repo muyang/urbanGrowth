@@ -1,0 +1,31 @@
+ENVI
+description = {
+  Majority Analysis Result [Thu Oct 08 19:57:34 2015]}
+samples = 2398
+lines   = 4221
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 10
+class lookup = {
+   0,   0,   0, 255, 255, 255,   0,   0, 255,   0, 255, 255, 255,   0,   0,
+   0, 255,   0, 255, 255,   0, 255,   0, 255, 176,  48,  96,  46, 139,  87}
+class names = {
+ Unclassified, Random Sample (Random Sample (background)), 
+ Random Sample (Random Sample (Fresh Water)), 
+ Random Sample (Random Sample (Sabkha)), 
+ Random Sample (Random Sample (Built-up Area)), 
+ Random Sample (Random Sample (Crop lands)), 
+ Random Sample (Random Sample (Desert)), 
+ Random Sample (Random Sample (Undeveloped Areas)), 
+ Random Sample (Random Sample (Sandy beach)), 
+ Random Sample (Random Sample (Sea))}
+byte order = 0
+map info = {UTM, 1.000, 1.000, 726465.000, 3472455.000, 3.0000000000e+001, 3.0000000000e+001, 35, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_35N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",27.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+band names = {
+ Majority Analysis (1986Alexandria_class.tif)}

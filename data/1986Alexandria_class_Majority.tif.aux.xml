@@ -1,0 +1,14 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">BAND</MDI>
+  </Metadata>
+  <Metadata>
+    <MDI key="Band_1">Majority Analysis (1986Alexandria_class.tif)</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Majority Analysis (1986Alexandria_class.tif)</Description>
+  </PAMRasterBand>
+</PAMDataset>
