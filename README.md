@@ -15,8 +15,10 @@ gdal or osgeo, numpy, matplotlib
 (for version 6-9, only numpy, matplotlib, scipy or skimage)
 
 
+<!--
 Outputs of version 0.1.0 and 0.2.0
 <img src=https://github.com/muyang/urbanGrowth/blob/master/Figure_1-1.png />
+-->
 
 Outputs of version 0.9.0
 <img src=https://github.com/muyang/urbanGrowth/blob/master/res_T0.png />
