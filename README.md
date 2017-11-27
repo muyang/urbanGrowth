@@ -22,9 +22,16 @@ Outputs of version 0.1.0 and 0.2.0
 
 Outputs of version 0.9.0
 
-T=0 <img src=https://github.com/muyang/urbanGrowth/blob/master/res_T0.png />
-T=10 <img src=https://github.com/muyang/urbanGrowth/blob/master/res_T10.png />
-T=50 <img src=https://github.com/muyang/urbanGrowth/blob/master/res_T50.png />
-T=100 <img src=https://github.com/muyang/urbanGrowth/blob/master/res_T100.png />
+T=0 
+<img src=https://github.com/muyang/urbanGrowth/blob/master/res_T0.png />
+
+T=10 
+<img src=https://github.com/muyang/urbanGrowth/blob/master/res_T10.png />
+
+T=50 
+<img src=https://github.com/muyang/urbanGrowth/blob/master/res_T50.png />
+
+T=100 
+<img src=https://github.com/muyang/urbanGrowth/blob/master/res_T100.png />
 
 to be continued...
