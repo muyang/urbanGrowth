@@ -26,12 +26,6 @@ Outputs of version 0.9.0
 ### zoomed-in plot 
 <img src=https://github.com/muyang/urbanGrowth/blob/master/Figure_1-1.png />
 
-### T=0 
-<img src=https://github.com/muyang/urbanGrowth/blob/master/res_T0.png />
-
-### T=10 
-<img src=https://github.com/muyang/urbanGrowth/blob/master/res_T10.png />
-
 ### T=100 
 <img src=https://github.com/muyang/urbanGrowth/blob/master/res_T100.png />
 
