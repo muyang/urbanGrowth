@@ -1,6 +1,6 @@
-# urbanGrowth -- Dr. Mustafa Elmo. Phd. Project
-Reference:
+# Dr. Mustafa Elmo's Research Project-Urban Sprawl of Alexander City
 
+#### Reference:
 
 Barredo, J.I., Demicheli, L. 2003. Urban sustainability in developing countries’ megacities: Modeling and predicting future urban growth in Lagos. Cities, 20(5), 297-310
 
