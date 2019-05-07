@@ -1,6 +1,6 @@
-# Dr. Mustafa Elmo's Research Project-Urban Sprawl of Alexander City
+# Urban Sprawl of Alexander City 
 
-Participant 08.2017-08.2018
+### (Participant In Dr. Mustafa Elmo's Research Project, 08.2017-08.2018)
 
 #### Reference:
 
@@ -28,7 +28,9 @@ Outputs of version 0.9.0
 ### zoomed-in plot 
 <img src=https://github.com/muyang/urbanGrowth/blob/master/Figure_1-1.png />
 
-### T=100 
+### T=10, 50, 100 
+<img src=https://github.com/muyang/urbanGrowth/blob/master/res_T10.png />
+<img src=https://github.com/muyang/urbanGrowth/blob/master/res_T50.png />
 <img src=https://github.com/muyang/urbanGrowth/blob/master/res_T100.png />
 
 ### 5D Plot (UA/SA)
