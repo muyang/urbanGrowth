@@ -12,7 +12,7 @@
 ### Default: no notification
 #PBS -m bae
 
-#PBS -M mustafa.elmorshdy@yahoo.com
+#PBS -M aaaa.bbbby@gmail.com
 
 ### If you do not care about standard output, use "PBS -o /dev/null"
 ### Default: Name of jobfile plus ".o" plus number of PBS job
